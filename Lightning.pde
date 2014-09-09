@@ -9,7 +9,7 @@ void draw()
 {
  fill(0,0,0,36);
  stroke(0,0,0,36);
- rect(0,0,1280,960);
+ rect(0,0,800,800);
 }
 void mousePressed()
 {
