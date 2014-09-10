@@ -4,6 +4,7 @@ void setup()
 {
  size(800,800);
  colorMode(HSB,360);
+ background(0);
 }
 void draw()
 {

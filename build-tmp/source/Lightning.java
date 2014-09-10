@@ -20,13 +20,13 @@ public void setup()
 {
  size(800,800);
  colorMode(HSB,360);
+ background(0);
 }
 public void draw()
 {
  fill(0,0,0,36);
  stroke(0,0,0,36);
- rect(0,0,1280,960);
- noFill();
+ rect(0,0,800,800);
 }
 public void mousePressed()
 {
